@@ -1,0 +1,16 @@
+2015-05-20 02:01:48.724 ionic-demo[24302:454408] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Tylerfletcher/Library/Developer/CoreSimulator/Devices/8AB34A77-F514-4202-8069-CB02F3ECF3A6/data/Containers/Data/Application/6DCCB9BB-6D7E-44E9-855D-6F1CE1ABFFB9/Library/Cookies/Cookies.binarycookies
+2015-05-20 02:01:48.943 ionic-demo[24302:454408] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-20 02:01:48.943 ionic-demo[24302:454408] Multi-tasking -> Device: YES, App: YES
+2015-05-20 02:01:48.947 ionic-demo[24302:454408] Unlimited access to network resources
+2015-05-20 02:01:49.688 ionic-demo[24302:454408] Resetting plugins due to page load.
+2015-05-20 02:01:50.526 ionic-demo[24302:454408] Finished load of: file:///Users/Tylerfletcher/Library/Developer/CoreSimulator/Devices/8AB34A77-F514-4202-8069-CB02F3ECF3A6/data/Containers/Bundle/Application/73C65A02-025F-420F-8F3E-7339EFE217FC/ionic-demo.app/www/index.html
+2015-05-20 02:01:53.374 ionic-demo[24302:454408] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-05-20 02:01:53.404 ionic-demo[24302:454408] THREAD WARNING: ['InAppBrowser'] took '214.839111' ms. Plugin should use a background thread.
+2015-05-20 02:02:23.625 ionic-demo[24302:454408] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-05-20 02:02:23.630 ionic-demo[24302:454408] THREAD WARNING: ['InAppBrowser'] took '82.970947' ms. Plugin should use a background thread.
+2015-05-20 02:02:32.917 ionic-demo[24302:454408] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-05-20 02:02:32.921 ionic-demo[24302:454408] THREAD WARNING: ['InAppBrowser'] took '81.813232' ms. Plugin should use a background thread.
+2015-05-20 02:03:53.183 ionic-demo[24302:454408] IAB.close() called but it was already closed.
+2015-05-20 02:04:23.545 ionic-demo[24302:454408] IAB.close() called but it was already closed.
+2015-05-20 02:04:32.837 ionic-demo[24302:454408] IAB.close() called but it was already closed.
+2015-05-20 02:06:07.329 ionic-demo[24302:458383] Terminating since there is no system app.
